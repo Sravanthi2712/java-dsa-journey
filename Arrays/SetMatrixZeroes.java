@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
 Problem: Set Matrix Zeroes
-Platform: LeetCode
+Platform: LeetCode - 73
 Topic: Arrays, Matrix
 */
 //Approach 1---O(m*n),O(1)

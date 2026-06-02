@@ -1,6 +1,6 @@
 /*
 Problem: Pascal Triangle
-Platform: LeetCode
+Platform: LeetCode - 118
 Topic: Dynamic Arrays -- List
 */
 
