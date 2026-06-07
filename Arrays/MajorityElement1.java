@@ -1,5 +1,9 @@
 
-
+/*
+Problem: Majority Element 1
+Platform: LeetCode - 169
+Topic: Arrays, HashMap
+*/
 
 import java.util.*;
 
